@@ -3,192 +3,12 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
-
-    # Profile information
-    name: Mat Culpepper
-    tagline: DevOps Architect / Manager
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
-    # Sidebar links
-    email: mathew.culpepper@healthspring.com
-    phone: 919-537-5655
-    timezone: America/New_York Timezone
-    citizenship: United States
-    website:  #do not add http://
-    linkedin: matculpepper
-    xing:
-    github: culpepmw
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@culpepmw'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf:
-
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
-
-    interests:
-      title: Interests
-      info:
-        - item: Reading
-          link:
-
-        - item: Table Top Role-playing
-          link:
-
-        - item: Cooking
-          link:
-
-education:
-
-career-profile:
-    title: Career Profile
-    summary: |
-      I desire an IT leadership position in the Research-Triangle area or
-      90%+ remote with growth potential at a company with a passion for
-      providing value to its clients and work-life balance to its employees.
-      The ideal job for me would be working as a leader in the Technology sector.
-      In addition, this job would offer annual educational and enrichment
-      opportunities as well as mentoring to facilitate professional growth.
-experiences:
-    title: Experiences
-    info:
-      - role: DevOps Architect
-        time: 2018 - Present
-        company: Cigna Medicare, Nashville, TN (remote)
-        details: |
-          Our team develops, supports, and implements DevOps process tooling
-          for delivery teams while advising those teams on best practice and
-          standards throughout the industry and our organization.  This team
-          was responsible for supporting Octopus Deploy as well as developing
-          custom step templates using PowerShell.  In addition, the team was
-          responsible for Team Foundation Server administration and Jenkins
-          development and operation.
-          -	I was responsible for developing and testing solutions, translating
-            customer requirements into technical requirements, collaborating with
-            delivery teams, managing expectations and timelines for delivery of 
-            solutions, and presenting team capabilities and industry best practices to delivery teams.
-          -	Extended database deployment pattern allowing capability of multiple deployment technologies to be leveraged based on delivery team’s need.  Extension of this pattern allowed us to save 40+ man hours per production release.
-          -	Lead engagement team responsible for collaborating with delivery teams.
-
-      - role: Solutions Architect
-        time: 2014 - 2018
-        company: Cigna Medicare, Nashville, TN
-        details: |
-          Our team developed, supported, implemented, and managed a large, vendor-supplied, multi-tiered, standards-based system that routed, tracked and processed HIPAA transactions and related data.  This system was scaled to support hundreds of thousands of batch transactions weekly.  This system was considered a tier 1 (business critical) system.  In addition, this team was responsible for several proprietary file formats exchanged both internally and with various trading partners.
-          -	Designed and implemented full software development lifecycle (SDLC) physical architecture for the standards-based system while minimizing costs.  The implementation required coordination with existing onshore and offshore resources for outages in environments, testing, and support.
-          - I was responsible for mentoring development staff, guiding analysts, translating requirements into technical specifications, peer review of documentation, evaluating product/platforms, application security review, high-level estimates, and budgeting physical architecture
-
-
-      - role: Senior ETL Consultant/Senior Systems Developer
-        time: 2010 - 2014
-        company: Cigna Medicare, Nashville, TN
-        details: |
-          Our team developed ETL Solutions to provide high throughput data
-          loads and extracts consumed by both internal and external partners.
-          Several of these file formats were both large in width as well as
-          in size of the file.
-          - I was the ScrumMaster for a diverse team of data-centric
-          persons and processes.  This team consisted of 14 members and
-          encompassed 4 product lines and a dynamic team structure.  Scrum
-          process was being developed and incorporated as product delivery
-          continued at a pace that was acceptable to business stakeholders;
-          establishing a successful and comfortable velocity within 10
-          three week iterations.
-          - I utilized Microsoft technologies to provide core services.
-          These include SQL Database Engine, SQL Integration Services, and
-          SQL Reporting Services.  These versions ranged from SQL Server
-          2005 to SQL Server 2014 as the architecture evolved.
-          - I worked with the EDI gateway team to design solutions that
-          leveraged various technologies to support real-time transaction
-          processing in addition to ensuring compliance with corporate,
-          regulatory, contractual, and requirements.  I am required to be
-          conversant in EDI, HL7, Medicare and general health care terms
-          and acronyms.
-
-      - role: Senior ETL Consultant/Senior Systems Developer
-        time: 2003 - 2015
-        company: Mat Culpepper Consulting, Hendersonville, TN
-        details: |
-          I was responsible for support of personal and professional communication
-          of senior health care providers in Nashville, TN.  I worked with the
-          principal client to provide academic research on topics ranging from
-          specific anesthetic or surgical procedures to impact of an individual's
-          culture on the effectiveness and safety of an organization.  In
-          addition, I provided both technical and editorial support for
-          presentations given worldwide regarding various topics ranging from how
-          to build “safe” organizations to how to incorporate new technology into
-          an existing medical organization.
-
-      - role: Development Team Lead
-        time: 2009 - 2010
-        company: Active Outdoors, Hermitage, TN
-        details: |
-          - I led a team of five database development professionals through the adoption of SCRUM as I learned to perform the role of Scrum Master.  In addition, I supported and mentored staff, and worked to promote database development best practices. The team went from being a marginalized collection of “order takers” to a group of engaged and committed workers who were able to complete tasks quickly and engage the customer in meeting their needs both previously documented and newly discovered. 
-          - I worked with customers (internal and external) to define requirements for data and systems.  I also provided proof of concept implementations as well as development support for reporting, ETL and deployment processes.  I worked with internal clients and peers to define database models, both physical and logical, to support web based application and reporting needs. I was also responsible for troubleshooting and managing the existing model and any performance issues with respect to transactional, reporting or ETL loads.
-
-      - role: Database Team Lead
-        time: 2008 - 2009
-        company: AIM Healthcare, Franklin, TN
-        details: |
-          Lead Database Administrator in fast-paced healthcare operations and development.
-            - Operated, built, and maintained SDLC environments for Microsoft SQL Systems.
-            - Operated in a high-paced, rapidly changing environment with many business owners having direct access to operational database systems.
-            - Provided root cause analysis, remediation, and system enhancements to alleviate database performance issues.
-            - Provided code review and analysis of code being deployed into QA and Production environments.
-            - Provided guidance, support, and implementation of advanced database functionality such as transactional replication, table partitioning, and clustering.
-            - Provided support for several large multi-terabyte databases including monthly large data loads, partition management, long running query tuning, index optimizations, and role-based permissions management.
-
-      - role: Database Consultant
-        time: 2008 - 2008
-        company: Direct Connect Solutions via Vaco Technologies, Nashville, TN
-        details: |
-          Consultant for a company moving from an established small business in the variable printing market to a service company providing resources to clients.
-            - Responsible for operating, building, and maintaining Development and Production Microsoft SQL Systems.
-            - Responsible for requirements gathering, documentation, design, testing, and implementation of a data integration product for a healthcare customer.
-            - Assisted in the definition and documentation of database administration and database engineer roles in the company.
-            - Assisted with the maturation of IT processes
-            - Provided visibility into production systems and processes using off the shelf monitoring tools.
-
-
-projects:
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: DevOps
-        level: 98%
-
-      - name: Agile Methodologies
-        level: 88%
-
-      - name: SQL
-        level: 85%
-
-      - name: Leadership
-        level: 80%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Mathew Culpepper</a>#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
-sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Mat Culpepper
-    tagline: DevOps Architect / Manager
+    tagline: DevOps Manager
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -203,7 +23,7 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@culpepmw'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -232,30 +52,25 @@ education:
 career-profile:
     title: Career Profile
     summary: |
-      I desire an IT leadership position in the Research-Triangle area or
-      90%+ remote with growth potential at a company with a passion for
-      providing value to its clients and work-life balance to its employees.
-      The ideal job for me would be working as a leader in the Technology sector.
-      In addition, this job would offer annual educational and enrichment
-      opportunities as well as mentoring to facilitate professional growth.
+      I desire an IT leadership position in the Research-Triangle area or 90%+ remote with growth potential at a company with a passion for providing value to its clients and work-life balance to its employees. The ideal job for me would be working as a leader in the Technology sector. In addition, this job would offer annual educational and enrichment opportunities as well as mentoring to facilitate professional growth.
 experiences:
     title: Experiences
     info:
+      - role: DevOps Manager
+        time: 2023 - Present
+        company: Cigna, Nashville, TN (remote)
+        details: |
+          Our team delivers DevOps process tooling for delivery teams while those teams identify and implement best practice and standards throughout the industry and our organization.
+          - I am responsible for managing a team of software engineers.
+          - I participate in annual budgeting and forecasting.
+          - I am responsible for mentoring development staff, guiding analysis, translating requirements into technical specifications, peer review of documentation and code, evaluating product/platforms, application security review, high-level estimates, and budgeting for architecture
+
       - role: DevOps Architect
-        time: 2018 - Present
+        time: 2018 - 2023
         company: Cigna Medicare, Nashville, TN (remote)
         details: |
-          Our team develops, supports, and implements DevOps process tooling
-          for delivery teams while advising those teams on best practice and
-          standards throughout the industry and our organization.  This team
-          was responsible for supporting Octopus Deploy as well as developing
-          custom step templates using PowerShell.  In addition, the team was
-          responsible for Team Foundation Server administration and Jenkins
-          development and operation.
-          -	I was responsible for developing and testing solutions, translating
-            customer requirements into technical requirements, collaborating with
-            delivery teams, managing expectations and timelines for delivery of 
-            solutions, and presenting team capabilities and industry best practices to delivery teams.
+          Our team develops, supports, and implements DevOps process tooling for delivery teams while advising those teams on best practice and standards throughout the industry and our organization.  This team was responsible for supporting Octopus Deploy as well as developing custom step templates using PowerShell.  In addition, the team was responsible for Team Foundation Server administration and Jenkins development and operation.
+          -	I was responsible for developing and testing solutions, translating customer requirements into technical requirements, collaborating with delivery teams, managing expectations and timelines for delivery of solutions, and presenting team capabilities and industry best practices to delivery teams.
           -	Extended database deployment pattern allowing capability of multiple deployment technologies to be leveraged based on delivery team’s need.  Extension of this pattern allowed us to save 40+ man hours per production release.
           -	Lead engagement team responsible for collaborating with delivery teams.
 
@@ -267,52 +82,26 @@ experiences:
           -	Designed and implemented full software development lifecycle (SDLC) physical architecture for the standards-based system while minimizing costs.  The implementation required coordination with existing onshore and offshore resources for outages in environments, testing, and support.
           - I was responsible for mentoring development staff, guiding analysts, translating requirements into technical specifications, peer review of documentation, evaluating product/platforms, application security review, high-level estimates, and budgeting physical architecture
 
-
       - role: Senior ETL Consultant/Senior Systems Developer
         time: 2010 - 2014
         company: Cigna Medicare, Nashville, TN
         details: |
-          Our team developed ETL Solutions to provide high throughput data
-          loads and extracts consumed by both internal and external partners.
-          Several of these file formats were both large in width as well as
-          in size of the file.
-          - I was the ScrumMaster for a diverse team of data-centric
-          persons and processes.  This team consisted of 14 members and
-          encompassed 4 product lines and a dynamic team structure.  Scrum
-          process was being developed and incorporated as product delivery
-          continued at a pace that was acceptable to business stakeholders;
-          establishing a successful and comfortable velocity within 10
-          three week iterations.
-          - I utilized Microsoft technologies to provide core services.
-          These include SQL Database Engine, SQL Integration Services, and
-          SQL Reporting Services.  These versions ranged from SQL Server
-          2005 to SQL Server 2014 as the architecture evolved.
-          - I worked with the EDI gateway team to design solutions that
-          leveraged various technologies to support real-time transaction
-          processing in addition to ensuring compliance with corporate,
-          regulatory, contractual, and requirements.  I am required to be
-          conversant in EDI, HL7, Medicare and general health care terms
-          and acronyms.
+          Our team developed ETL Solutions to provide high throughput data loads and extracts consumed by both internal and external partners.  Several of these file formats were both large in width as well as in size of the file.
+          - I was the ScrumMaster for a diverse team of data-centric persons and processes.  This team consisted of 14 members and encompassed 4 product lines and a dynamic team structure.  Scrum process was being developed and incorporated as product delivery continued at a pace that was acceptable to business stakeholders; establishing a successful and comfortable velocity within 10 three week iterations.
+          - I utilized Microsoft technologies to provide core services. These include SQL Database Engine, SQL Integration Services, and SQL Reporting Services.  These versions ranged from SQL Server 2005 to SQL Server 2014 as the architecture evolved.
+          - I worked with the EDI gateway team to design solutions that leveraged various technologies to support real-time transaction processing in addition to ensuring compliance with corporate, regulatory, contractual, and requirements.  I was required to be conversant in EDI, HL7, Medicare and general health care termsand acronyms.
 
       - role: Senior ETL Consultant/Senior Systems Developer
         time: 2003 - 2015
         company: Mat Culpepper Consulting, Hendersonville, TN
         details: |
-          I was responsible for support of personal and professional communication
-          of senior health care providers in Nashville, TN.  I worked with the
-          principal client to provide academic research on topics ranging from
-          specific anesthetic or surgical procedures to impact of an individual's
-          culture on the effectiveness and safety of an organization.  In
-          addition, I provided both technical and editorial support for
-          presentations given worldwide regarding various topics ranging from how
-          to build “safe” organizations to how to incorporate new technology into
-          an existing medical organization.
+          I was responsible for support of personal and professional communication of senior health care providers in Nashville, TN.  I worked with the principal client to provide academic research on topics ranging from specific anesthetic or surgical procedures to impact of an individual's culture on the effectiveness and safety of an organization.  In addition, I provided both technical and editorial support for presentations given worldwide regarding various topics ranging from how to build “safe” organizations to how to incorporate new technology into an existing medical organization.
 
       - role: Development Team Lead
         time: 2009 - 2010
         company: Active Outdoors, Hermitage, TN
         details: |
-          - I led a team of five database development professionals through the adoption of SCRUM as I learned to perform the role of Scrum Master.  In addition, I supported and mentored staff, and worked to promote database development best practices. The team went from being a marginalized collection of “order takers” to a group of engaged and committed workers who were able to complete tasks quickly and engage the customer in meeting their needs both previously documented and newly discovered. 
+          - I led a team of five database development professionals through the adoption of SCRUM as I learned to perform the role of Scrum Master.  In addition, I supported and mentored staff, and worked to promote database development best practices. The team went from being a marginalized collection of “order takers” to a group of engaged and committed workers who were able to complete tasks quickly and engage the customer in meeting their needs both previously documented and newly discovered.
           - I worked with customers (internal and external) to define requirements for data and systems.  I also provided proof of concept implementations as well as development support for reporting, ETL and deployment processes.  I worked with internal clients and peers to define database models, both physical and logical, to support web based application and reporting needs. I was also responsible for troubleshooting and managing the existing model and any performance issues with respect to transactional, reporting or ETL loads.
 
       - role: Database Team Lead
@@ -355,7 +144,13 @@ skills:
         level: 85%
 
       - name: Leadership
-        level: 80%
+        level: 75%
+
+      - name: AWS
+        level: 70%
+
+      - name: Terraform
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
