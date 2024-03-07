@@ -3,7 +3,6 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
@@ -39,13 +38,13 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Reading
+        - item: Reading (Sci-Fi and Fantasy)
           link:
 
         - item: Table Top Role-playing
           link:
 
-        - item: Cooking
+        - item: Ethnic Cuisine
           link:
 
 education:
@@ -71,7 +70,7 @@ experiences:
         time: 2018 - 2023
         company: Cigna Medicare, Nashville, TN (remote)
         details: |
-          Our team develops, supports, and implements DevOps process tooling for delivery teams while advising those teams on best practice and standards throughout the industry and our organization.  This team was responsible for supporting Octopus Deploy as well as developing custom step templates using PowerShell.  In addition, the team was responsible for Team Foundation Server administration and Jenkins development and operation.
+          Our team developed, supported, and implemented DevOps process tooling for delivery teams while advising those teams on best practice and standards throughout the industry and our organization.  This team was responsible for supporting Octopus Deploy as well as developing custom step templates using PowerShell.  In addition, the team was responsible for Team Foundation Server administration and Jenkins development and operation.
           -	I was responsible for developing and testing solutions, translating customer requirements into technical requirements, collaborating with delivery teams, managing expectations and timelines for delivery of solutions, and presenting team capabilities and industry best practices to delivery teams.
           -	Extended database deployment pattern allowing capability of multiple deployment technologies to be leveraged based on delivery team’s need.  Extension of this pattern allowed us to save 40+ man hours per production release.
           -	Lead engagement team responsible for collaborating with delivery teams.
@@ -93,7 +92,7 @@ experiences:
           - I utilized Microsoft technologies to provide core services. These include SQL Database Engine, SQL Integration Services, and SQL Reporting Services.  These versions ranged from SQL Server 2005 to SQL Server 2014 as the architecture evolved.
           - I worked with the EDI gateway team to design solutions that leveraged various technologies to support real-time transaction processing in addition to ensuring compliance with corporate, regulatory, contractual, and requirements.  I was required to be conversant in EDI, HL7, Medicare and general health care termsand acronyms.
 
-      - role: Senior ETL Consultant/Senior Systems Developer
+      - role: Owner
         time: 2003 - 2015
         company: Mat Culpepper Consulting, Hendersonville, TN
         details: |
@@ -128,30 +127,7 @@ experiences:
             - Assisted in the definition and documentation of database administration and database engineer roles in the company.
             - Assisted with the maturation of IT processes
             - Provided visibility into production systems and processes using off the shelf monitoring tools.
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
 
 projects:
 
