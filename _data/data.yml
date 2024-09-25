@@ -60,9 +60,10 @@ experiences:
         time: 2023 - Present
         company: Cigna, Nashville, TN (remote)
         details: |
-          Our team delivers DevOps process tooling for delivery teams while those teams identify and implement best practice and standards throughout the industry and our organization.
-          - I am responsible for managing a team of software engineers working in the AWS Cloud.
+          Our team delivers DevOps process tooling for delivery teams while helping those teams identify and implement best practice and standards throughout the industry and our organization.
+          - I am responsible for managing a team of software engineers working in AWS Cloud.
           - I provide technical leadership and develop in the AWS Cloud using EC2, SQS, SMS, Lambdas, IAM, RDS, EKS, and S3.
+          - I am responsible for a migration from on-premise Jenkins pipelines to GitHub Actions.  The migration of source control repositories consists of 300+ repositories with code ranging from AWS to Java.
           - I participate in annual budgeting and forecasting.
           - I am responsible for mentoring development staff, guiding analysis, translating requirements into technical specifications, peer review of documentation and code, evaluating product/platforms, application security review, high-level estimates, and budgeting for architecture
 
