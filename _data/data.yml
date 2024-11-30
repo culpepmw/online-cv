@@ -14,20 +14,23 @@ sidebar:
     # Sidebar links
     email: mathew.culpepper@healthspring.com
     phone: 919-537-5655
-    timezone: America/New_York Timezone
+    timezone: America/New_York Timezone # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: United States
-    website:  #do not add http://
+    website:  # Include the full website URL, including "http://" or "https://".
     linkedin: matculpepper
-    xing:
+    xing: 
     github: culpepmw
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter:
+    twitter: '@culpepmw'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf:
+    mastodon:  # Please include your full Mastodon link here.
+    hackerrank: # Please provide your HackerRank username.
+    leetcode: # Please provide your LeetCode username.
+    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
       title: Languages
